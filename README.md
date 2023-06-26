@@ -1,5 +1,10 @@
 # Ruby on Rails with React.js Boilerplate
 
+BUILD AN ECOMMERCE SITE WHERE PEOPLE CAN CREATE AN ACCOUNT AND SUBMIT REQUESTS FOR PURCHASING ITEMS FROM ME.
+
+
+
+
 This is a boilerplate template for a Ruby on Rails app with a React.js frontend and PostgreSQL as the database. It provides a basic structure and setup to help you get started quickly.
 
 ## Prerequisites
